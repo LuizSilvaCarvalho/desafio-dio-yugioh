@@ -1,6 +1,6 @@
-# Desafio - Duelo de Cartas 🃏
+# Desafio - Duelo de Cartas Yu-gi-oh 🃏
 
-- Desenvolvimento Front-End
+- Desenvolvimento Front-End.
 - Uma aplicação interativa de batalha de cartas inspirada em Yu-Gi-Oh!, com regras simples baseadas no clássico **Pedra, Papel e Tesoura (Jokenpô)**.
 
 <br/>
