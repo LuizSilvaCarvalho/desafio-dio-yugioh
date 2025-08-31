@@ -39,4 +39,4 @@ No jogo, o usuário e o computador competem utilizando cartas únicas, cada uma 
 
 <br/>
 
-💻 Confira o projeto final: [Duelo de Cartas]()
+💻 Confira o projeto final: [Duelo de Cartas](https://luizsilvacarvalho.github.io/desafio-dio-yugioh/)
